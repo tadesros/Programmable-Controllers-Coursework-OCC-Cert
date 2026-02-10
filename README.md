@@ -11,7 +11,23 @@ We completed many interesting projects / labs using:
   - Developed HMI Applications with Siemens WinCc
 
 
-Course Goals: 
+First Class Courst Goals:
+
+- Foundational Software & Logic Goals
+
+- Demonstrate the startup and use the editor functions for Studio 5000 and Siemens TIA.
+
+- Demonstrate and use of the structure and organization of PLC program files for Studio 5000 and Siemens TIA.
+
+- Demonstrate the use of the data structures for Studio 5000 and Siemens TIA.
+
+- Demonstrate and use the basic relay instructions files for Studio 5000 and Siemens TIA.
+
+- Demonstrate and use of timers and counters instructions files for Studio 5000 and Siemens TIA.
+
+- Demonstrate the construction of Human Machine Interface (HMI) with a PLC application program.
+
+Second Class Course Goals: 
 - Explain the program and data structures used in Studio 5000 and SIEMENS TIA Step 7 programmable logic controller applications.
 
 - Create programs in Studio 5000 Ladder Logic using the advanced instructions in an application.
