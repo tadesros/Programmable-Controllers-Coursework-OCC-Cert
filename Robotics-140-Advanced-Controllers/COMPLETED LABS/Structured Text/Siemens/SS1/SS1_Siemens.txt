@@ -1,0 +1,7 @@
+//START-STOP pushbuttons to turn On MOTOR
+MOTOR := STOP AND (START OR MOTOR);
+
+
+//Indicators status based on MOTOR On or Off
+PL1_OFF:= NOT MOTOR;
+PL2_ON:= MOTOR;
