@@ -2,16 +2,10 @@ I took two clases to complete the PLC certificate from my local community colleg
 
 This repository contains the course material and projects I worked on.
 
-We completed many interesting projects / labs using: 
-
-* I used Allen Bradley Studio 5000 Software 
-  - Developed HMI applications with FactoryTalk View HE HMI 
-
-* Siemens TIA 
-  - Developed HMI Applications with Siemens WinCc
 
 
-First Class Courst Goals:
+
+Class Goals 2040:
 
 - Foundational Software & Logic Goals
 
@@ -27,7 +21,8 @@ First Class Courst Goals:
 
 - Demonstrate the construction of Human Machine Interface (HMI) with a PLC application program.
 
-Second Class Course Goals: 
+Class Goals 2140:
+
 - Explain the program and data structures used in Studio 5000 and SIEMENS TIA Step 7 programmable logic controller applications.
 
 - Create programs in Studio 5000 Ladder Logic using the advanced instructions in an application.
