@@ -1,4 +1,4 @@
-I took two clases to complete the PLC certificate from my local community college (OCC)>
+I took two clases to complete the PLC certificate from my local community college (OCC)
 
 This repository contains the course material and projects I worked on.
 
